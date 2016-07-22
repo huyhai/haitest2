@@ -1,0 +1,3 @@
+rootProject.name = 'haitest2'
+
+include ':app'

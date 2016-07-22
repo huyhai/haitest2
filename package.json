@@ -1,0 +1,16 @@
+{
+  "name": "haitest2",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "js-md5": "0.4.1",
+    "react": "15.2.1",
+    "react-native": "0.29.2",
+    "react-native-drawer": "^2.2.6",
+
+    "react-native-starrating": "^1.0.1"
+  }
+}
